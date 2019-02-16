@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97933d85c6acddc4bb95f77ca8cc0280, type: 3}
+  m_Name: SpanishPhrases
+  m_EditorClassIdentifier: 
+  language: Spanish
+  phrases:
+  - key: INFOPOST1
+    value: "\u201C\xBFHola? \xBFHay alguien m\xE1s aqu\xED? Mejor sigue movi\xE9ndote
+      o hablar\xE9 conmigo mismo durante todo el viaje. Usemos A y D para la izquierda
+      y la derecha, ESPACIO para saltar ... \xBFPresiona S para agacharse?\""
+  - key: INFOPOST2
+    value: "\"Raro, se siente esponjoso y extra\xF1o bajo los pies. \xBFQu\xE9 pasa
+      si probamos S y SPACE al mismo tiempo?\""
+  - key: INFOPOST3
+    value: " \u201C\xA1Este lugar se puso interesante! Usa K para golpear y O para
+      disparar. Probemos en este muro de aspecto inocente.\""
